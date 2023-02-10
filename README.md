@@ -1,7 +1,7 @@
 # hello-world
 # Hallo Welt Projekt
 
-Tsts für Github
+Tests für Github
 
 ## Eins
 
